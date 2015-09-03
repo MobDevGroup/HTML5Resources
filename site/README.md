@@ -11,17 +11,17 @@
 * ### [移动开发在线模拟器](http://emulator.mobilewebsitesubmit.com/)
 > 在线模拟移动网站，可能需要翻墙。
 
-* ### [html5test](http://html5test.com/)
-> 测试你的浏览器对html5的支持情况。
+* ### [HTML5Test](http://html5test.com/)
+> 测试你的浏览器对HTML5的支持情况。
 
 * ### [CanIUse](http://caniuse.com/)
 > 查阅新特性的支持情况
 
 * ### [HTML5China](http://www.html5china.com/)
-> 国内领先的html5技术门户。
+> 国内领先的HTML5技术门户。
 
 * ### [Mobile Html](http://mobilehtml5.org/)
-> 移动设备针对html5的支持情况。里面有详细总结。
+> 移动设备针对HTML5的支持情况。里面有详细总结。
 
 * ### [jsfiddle](http://jsfiddle.net/)
 > js在线调试工具。
