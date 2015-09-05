@@ -46,74 +46,74 @@ https://twitter.com/TwitterOSS
 ### 个人
 
 * ### 阮一峰
-> blog：http://www.ruanyifeng.com/blog/
-> GitHub：https://github.com/ruanyf
-> WeiBo：http://weibo.com/ruanyf
-> twitter：https://twitter.com/ruanyf
+> * blog：http://www.ruanyifeng.com/blog/
+> * GitHub：https://github.com/ruanyf
+> * WeiBo：http://weibo.com/ruanyf
+> * twitter：https://twitter.com/ruanyf
 
 * ### 老赵
-> blog：http://blog.zhaojie.me/
-> GitHub：https://github.com/JeffreyZhao
-> WeiBo：http://weibo.com/jeffz
-> twitter：https://twitter.com/jeffz_cn
+> * blog：http://blog.zhaojie.me/
+> * GitHub：https://github.com/JeffreyZhao
+> * WeiBo：http://weibo.com/jeffz
+> * twitter：https://twitter.com/jeffz_cn
 
 * ### 玉伯
-> blog：https://lifesinger.wordpress.com/
-> GitHub：https://github.com/lifesinger
-> WeiBo：http://weibo.com/lifesinger
-> twitter：https://twitter.com/lifesinger
+> * blog：https://lifesinger.wordpress.com/
+> * GitHub：https://github.com/lifesinger
+> * WeiBo：http://weibo.com/lifesinger
+> * twitter：https://twitter.com/lifesinger
 
 * ### 寒冬winter
-> blog：http://winter-cn.cnblogs.com/
-> WeiBo：http://weibo.com/wintercn
+> * blog：http://winter-cn.cnblogs.com/
+> * WeiBo：http://weibo.com/wintercn
 
 * ### 左耳朵耗子
-> blog：http://coolshell.cn/
-> GitHub：https://github.com/haoel
-> WeiBo：http://weibo.com/haoel
-> twitter：https://twitter.com/haoel/
+> * blog：http://coolshell.cn/
+> * GitHub：https://github.com/haoel
+> * WeiBo：http://weibo.com/haoel
+> * twitter：https://twitter.com/haoel/
 
 * ### fool2fish
-> blog：http://fool2fish.cn
-> GitHub：https://github.com/fool2fish
-> WeiBo：http://weibo.com/fool2fish
-> twitter：https://twitter.com/fool2fish
+> * blog：http://fool2fish.cn
+> * GitHub：https://github.com/fool2fish
+> * WeiBo：http://weibo.com/fool2fish
+> * twitter：https://twitter.com/fool2fish
 
 * ### html5ify
-> blog：http://html5ify.com/
-> GitHub：https://github.com/JacksonTian
-> WeiBo：http://weibo.com/shyvo
-> twitter：https://twitter.com/JacksonTian
+> * blog：http://html5ify.com/
+> * GitHub：https://github.com/JacksonTian
+> * WeiBo：http://weibo.com/shyvo
+> * twitter：https://twitter.com/JacksonTian
 
 * ### Cat Chen
-> blog：http://catchen.biz/home.zh-CN.html
-> GitHub：https://github.com/CatChen
-> WeiBo：http://weibo.com/u/1640352230
-> twitter：https://twitter.com/CatChen
+> * blog：http://catchen.biz/home.zh-CN.html
+> * GitHub：https://github.com/CatChen
+> * WeiBo：http://weibo.com/u/1640352230
+> * twitter：https://twitter.com/CatChen
 
 * ### BYVod
-> blog：https://www.byvoid.com/
-> GitHub：https://github.com/BYVoid
-> WeiBo：http://weibo.com/byvoid
-> twitter：https://twitter.com/byvoid
+> * blog：https://www.byvoid.com/
+> * GitHub：https://github.com/BYVoid
+> * WeiBo：http://weibo.com/byvoid
+> * twitter：https://twitter.com/byvoid
 
 * ### 郭宇
-> blog：http://blog.guoyu.me/
-> GitHub：https://github.com/turingou
-> WeiBo：http://weibo.com/137601206
-> twitter：https://twitter.com/turingou
+> * blog：http://blog.guoyu.me/
+> * GitHub：https://github.com/turingou
+> * WeiBo：http://weibo.com/137601206
+> * twitter：https://twitter.com/turingou
 
 * ### 张鑫旭
-> blog：http://www.zhangxinxu.com/wordpress/
-> GitHub：https://github.com/zhangxinxu
-> WeiBo：http://weibo.com/zhangxinxu
-> twitter：https://twitter.com/zhangxinxu
+> * blog：http://www.zhangxinxu.com/wordpress/
+> * GitHub：https://github.com/zhangxinxu
+> * WeiBo：http://weibo.com/zhangxinxu
+> * twitter：https://twitter.com/zhangxinxu
 
 * ### smallni
-> blog：http://www.smallni.com/
-> twitter：https://twitter.com/smallniding/
+> * blog：http://www.smallni.com/
+> * twitter：https://twitter.com/smallniding/
 
 * ### 安记
-> blog：http://www.annn.me/
-> GitHub：https://github.com/hanan198501
-> WeiBo：http://weibo.com/hanan321
+> * blog：http://www.annn.me/
+> * GitHub：https://github.com/hanan198501
+> * WeiBo：http://weibo.com/hanan321
