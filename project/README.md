@@ -1,4 +1,4 @@
-## HTML5开源项目
+## HTML5开源项目：看开源项目源代码也是一种学习方法。
 * ### [react-native-dribbble-app](https://github.com/catalinmiron/react-native-dribbble-app)
 > 用React Native写的Dribbble第三方客户端
 
@@ -7,6 +7,9 @@
 
 * ### [React-Native-App](https://git.oschina.net/vczero/React-Native-App)
 > 基于React Native的通讯录App
+
+* ### [plyr](https://github.com/Selz/plyr)
+> 一个简单的HTML5播放器
 
 * ### [oschina-apicloud-app](https://git.oschina.net/ThinkPHP/oschina-apicloud-app)
 > 基于 APICloud 的 OSChina 客户端

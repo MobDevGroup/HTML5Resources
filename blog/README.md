@@ -1,4 +1,4 @@
-## HTML5开发者博客
+## HTML5开发者博客：关注优秀开发者第一时间获取最新分享的技术博文
 ### 组织
 
 * ### [Google](https://developers.google.com/)
