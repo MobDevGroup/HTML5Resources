@@ -2,6 +2,9 @@
 * ### [Angular.js](https://angularjs.org/)
 >  a development platform for building mobile and desktop web applications.
 
+* ### [AngularUI](http://angular-ui.github.io/)
+> The companion suite(s) to the AngularJS framework.
+
 * ### [AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning)
 > A bunch of links to blog posts, articles, videos, etc for learning AngularJS
 
@@ -21,6 +24,30 @@
 
 * ### [Modernizr](https://github.com/Modernizr/Modernizr)
 > Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.
+
+* ### [mockjs](http://mockjs.com/)
+> Mock.js 是一款模拟数据生成器，旨在帮助前端攻城师独立于后端进行开发，帮助编写单元测试。
+
+* ### [node-restify](http://restifyjs.com)
+> node.js REST framework specifically meant for web service APIs
+
+* ### [mongoose](http://mongoosejs.com)
+> MongoDB object modeling designed to work in an asynchronous environment.
+
+* ### [zepto](http://zeptojs.com)
+> 移动端jquery: a minimalist JavaScript library for modern browsers, with a jQuery-compatible API   
+
+* ### [lodash](https://lodash.com/)
+> 工具类函数库：A JavaScript utility library delivering consistency, modularity, performance, & extras.
+
+* ### [webpack](https://github.com/webpack/webpack)
+> 模块化：A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand. Through "loaders" modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
+
+* ### [requirejs](http://requirejs.org/)
+> A file and module loader for JavaScript
+
+* ### [famous](http://famous.org/)
+> 前端动画库：High-performance javascript library for animations & interfaces
 
 ### 音视频
 

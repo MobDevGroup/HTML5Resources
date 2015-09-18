@@ -32,6 +32,13 @@
 * ### [CSS参考手册](http://css.doyoe.com/)
 > CSS在线参考手册。
 
+* ### [NEC](http://nec.netease.com/)
+> 网易（杭州）前端CSS开源项目代号，她为您提供漂亮简单的样式解决方案。
+她包括了规范、框架、代码库、插件等内容，致力于为前端开发人员提供高效率高质量的前端页面开发解决方案，提高多人协作效率，也为非专业人员提供快速制作网页的解决方案。
+
+* ### [NEJ](http://nej.netease.com/)
+> 网易前端组工程师们发起创建的简洁，美观，真正的跨平台web前端开发框架；她遵循的原则是:自由定制、小巧灵活、简洁易用、愉悦编码、快乐开发。
+
 ### 国内前端站
 
 * ### [9秒社团](http://www.9miao.com/forum.php)
@@ -151,6 +158,9 @@
 
 * ### [Tutorialzine](http://tutorialzine.com/)
 > 精品教程和资源推送
+
+* ### [RunJS](http://runjs.cn/)
+> 在线编辑、展示、分享、交流你的 JavaScript 代码
 
 * ### 开源社区
 * ### [GitHub](http://www.github.com/)
