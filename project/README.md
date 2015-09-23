@@ -1,4 +1,6 @@
-## HTML5开源项目：看优秀源码也是一种学习方法。
+## HTML5开源项目
+> 看优秀源码也是一种学习方法。
+
 * ### [react-native-dribbble-app](https://github.com/catalinmiron/react-native-dribbble-app)
 > 用React Native写的Dribbble第三方客户端
 
