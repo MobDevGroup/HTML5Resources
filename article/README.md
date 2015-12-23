@@ -1,5 +1,9 @@
 ### 资源文章
 
+#### [JavaScript 资源大全中文版](http://gold.xitu.io/entry/5677d34700b0bf37ccc8f431)
+
+#### [适用于小团队的前端规范](http://front-end-standards.com/)
+
 #### [React-Native入门指南](https://github.com/vczero/react-native-lession)
 
 #### [设计师该如何学习前端](http://mp.weixin.qq.com/s?__biz=MjM5MzA0OTkwMA==&mid=400639373&idx=2&sn=a784cb1887f8db0b7919abdbce660bf1&scene=0#wechat_redirect)
