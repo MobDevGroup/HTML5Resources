@@ -1,5 +1,9 @@
 ### 资源文章
 
+#### [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
+
+#### [jQuery 基本原理](http://docs.huihoo.com/jquery/jquery-fundamentals/zh-cn/index.html)
+
 #### [PX, EM or REM Media Queries?](http://zellwk.com/blog/media-query-units/)
 
 #### [rem vs em](http://zellwk.com/blog/rem-vs-em/)
