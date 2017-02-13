@@ -65,6 +65,9 @@
 #### [每天发现一个好链接](http://admire.so/)
 > 每天发现一个好链接
 
+#### [GitLogs](http://www.gitlogs.com/)
+> 一个支持订阅GitHub流行趋势库的网站
+
 ### 国内前端站
 
 #### [前端导航网](http://jsdig.com/)
