@@ -1,6 +1,9 @@
 
 ### 开源项目
 
+#### [落网PC客户端](https://github.com/HuQingyang/Luoo.qy)
+> 一个基于 Electron 与 Vue 的落网第三方客户端 
+
 #### [基于react的影院购票应用](https://github.com/Aaaaaaaty/react_movie)
 > 相关技术栈react redux sass webpack es6
 
